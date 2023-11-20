@@ -1,7 +1,10 @@
-👋 Hi there! I'm Solmoon Kang
+👋 Hi there! I'm backend developer primarily using `Java`
 
-- 📌 I’m Back-End developer
-- 📚 I’m currently learning `CS` `JPA`
+My toolset includes Spring Framework and JPA for crafting robust and scalable server-side applications.
+
+Currently, I'm diving deeper into `Computer Science`, `JPA`
+
+-----
 
 ### 💪 Skills
 
