@@ -1,18 +1,20 @@
-👋 Hi there! I'm backend developer primarily using `Java`
+👋 Hi there! I'm backend developer primarily using Java
 
-My toolset includes Spring Framework and JPA for crafting robust and scalable server-side applications.
+Currently, I'm diving deeper into `Computer Science` and `Algorithms`. I'm also working on enhancing my understanding of `JPA`. 🔥
 
-Currently, I'm diving deeper into `Computer Science`, `JPA`
+<br/>
+
+Through this, I'm aiming to imporve my ability to develop robust and scalable server-side applications. 💪
+
+I'm always interested in learning new technologies and growing. 🚀
 
 -----
 
-### 💪 Skills
+### ⚙️ Teck Stack
 
-Platforms & Languages
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-
-Tools
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
