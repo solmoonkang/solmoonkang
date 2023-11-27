@@ -1,10 +1,4 @@
-👋 Hi there! I'm backend developer primarily using Java
-
-Currently, I'm diving deeper into `Computer Science` and `Algorithms`. I'm also working on enhancing my understanding of `JPA`. 🔥
-
-<br/>
-
-Through this, I'm aiming to imporve my ability to develop robust and scalable server-side applications. 💪
+👋 Hi there! I'm backend developer. 🧑🏻‍💻
 
 I'm always interested in learning new technologies and growing. 🚀
 
