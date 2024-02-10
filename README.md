@@ -9,7 +9,7 @@ I'm always interested in learning new technologies and growing. 🚀
 
 [![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=SSOLVE%20&fontAlign=65&fontAlignY=32&color=gradient)](https://ssolv.tistory.com/)
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmoonkang&show_icons=true&theme=shadow_blue) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solmoonkang&langs_count=8&layout=compact&theme=shadow_blue&hide_border=true)|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmoonkang&show_icons=true&theme=shadow_blue) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solmoonkang&langs_count=10&layout=compact&theme=shadow_blue)  |
 | ------------- | ------------- |
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontAlignY=85&fontSize=10)](https://ssolv.tistory.com/)
