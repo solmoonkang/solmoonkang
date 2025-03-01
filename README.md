@@ -1,6 +1,6 @@
 # SOLMOON KANG, Back-End Developer
 
-발로 뛰며 배우고, 적극적으로 피드백을 수용하는 실행형 인간입니다.
+보이지 않는 곳에서 핵심을 만드는 과정이 개발의 가장 큰 매력이라고 생각합니다.
 
 ## 가치관
 - 사용자 경험을 중요시하며, 서비스에 대한 애정을 가지고 접근합니다.
@@ -10,10 +10,11 @@
 ## 수상
 - 구름톤 트레이닝, KAKAO x GOORM 기업 연계 프로젝트 개발 부문 우수상 수상
 
-## 트러블슈팅
-- [구름톤 트레이닝 풀스택 과정 회고](https://ssolv.tistory.com/category/REFLECTION/%E2%98%81%EF%B8%8F%20%EA%B5%AC%EB%A6%84%ED%86%A4%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D%3A%20%ED%92%80%EC%8A%A4%ED%83%9D%20%EA%B3%BC%EC%A0%95%20%ED%9A%8C%EA%B3%A0)
-- [CI & CD 파이프라인 중복 배포 문제 트러블 슈팅](https://ssolv.tistory.com/29)
-- [실시간 채팅 트러블 슈팅](https://ssolv.tistory.com/30)
+## 주요 트러블슈팅
+- [구름톤 트레이닝, 프로젝트 회고 I](https://ssolv.tistory.com/28)
+- [구름톤 트레이닝, 프로젝트 회고 II](https://ssolv.tistory.com/29)
+- [로그인 시스템 도전 및 개선](https://ssolv.tistory.com/50)
+- [무한 배포 삽질](https://ssolv.tistory.com/51)
 
 <br>
 
