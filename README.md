@@ -11,8 +11,8 @@
 - 구름톤 트레이닝, KAKAO x GOORM 기업 연계 프로젝트 개발 부문 우수상 수상
 
 ## 주요 트러블슈팅
-- [구름톤 트레이닝, 프로젝트 회고 I](https://ssolv.tistory.com/28)
-- [구름톤 트레이닝, 프로젝트 회고 II](https://ssolv.tistory.com/29)
+- [구름톤 트레이닝, 1차 프로젝트를 마치며](https://ssolv.tistory.com/28)
+- [구름톤 트레이닝, 함께해서 배가 된 성과, 우리가 1등이라니?!](https://ssolv.tistory.com/29)
 - [로그인 시스템 도전 및 개선](https://ssolv.tistory.com/50)
 - [무한 배포 삽질](https://ssolv.tistory.com/51)
 
