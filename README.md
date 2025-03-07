@@ -19,6 +19,7 @@
 - [구름톤 트레이닝, 함께해서 배가 된 성과, 우리가 1등이라니?!](https://ssolv.tistory.com/29)
 - [로그인 시스템 도전 및 개선](https://ssolv.tistory.com/50)
 - [무한 배포 삽질](https://ssolv.tistory.com/51)
+- [테스트에 부딪히고, 최적화를 고민하기까지](https://ssolv.tistory.com/30)
 
 <br>
 
