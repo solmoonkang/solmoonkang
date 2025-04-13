@@ -3,11 +3,13 @@
 <a href="https://ssolv.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FF9E2A?style=flat-square&logo=Tistory&logoColor=white&link=https://ssolv.tistory.com/"/></a> <a href="https://www.linkedin.com/in/%EC%86%94%EB%AC%B8-%EA%B0%95-173aba347/"><img src="https://img.shields.io/badge/-Linkedin-0b65c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%86%94%EB%AC%B8-%EA%B0%95-173aba347/"/></a>
 
 ## 트러블슈팅
-- [구름톤 트레이닝, 1차 프로젝트를 마치며](https://ssolv.tistory.com/28)
-- [구름톤 트레이닝, 함께해서 배가 된 성과, 우리가 1등이라니?!](https://ssolv.tistory.com/29)
-- [로그인 시스템 도전 및 개선](https://ssolv.tistory.com/50)
-- [무한 배포 삽질](https://ssolv.tistory.com/51)
 - [테스트에 부딪히고, 최적화를 고민하기까지](https://ssolv.tistory.com/30)
+- [무한 배포 삽질](https://ssolv.tistory.com/51)
+- [로그인 시스템 도전 및 개선](https://ssolv.tistory.com/50)
+
+## 회고
+- [구름톤 트레이닝, 함께해서 배가 된 성과, 우리가 1등이라니?!](https://ssolv.tistory.com/29)
+- [구름톤 트레이닝, 1차 프로젝트를 마치며](https://ssolv.tistory.com/28)
 
 ## 교육
 - 구름톤 트레이닝 풀스택 개발자 양성 과정, 2024.01 ~ 2024.07
