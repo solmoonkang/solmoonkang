@@ -1,6 +1,6 @@
 # SOLMOON KANG, Back-End Developer
 
-<a href="https://ssolv.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FF9E2A?style=flat-square&logo=Tistory&logoColor=white&link=https://ssolv.tistory.com/"/></a> <a href="https://www.linkedin.com/in/%EC%86%94%EB%AC%B8-%EA%B0%95-173aba347/"><img src="https://img.shields.io/badge/-Linkedin-0b65c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%86%94%EB%AC%B8-%EA%B0%95-173aba347/"/></a>
+<a href="https://ssolv.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FF9E2A?style=flat-square&logo=Tistory&logoColor=white&link=https://ssolv.tistory.com/"/></a>
 
 ## 트러블슈팅
 - [테스트에 부딪히고, 최적화를 고민하기까지](https://ssolv.tistory.com/30)
