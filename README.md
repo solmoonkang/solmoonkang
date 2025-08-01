@@ -16,8 +16,4 @@
 
 <br>
 
-<a href="https://github.com/solmoonkang/">
-<img src="https://github-readme-stats.vercel.app/api?username=solmoonkang&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" height="160" />    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=solmoonkang&langs_count=6&theme=material-palenight&layout=compact" height="160" />
-</a>
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=solmoonkang&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" height="160" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solmoonkang&langs_count=6&theme=material-palenight&layout=compact" height="160" />
