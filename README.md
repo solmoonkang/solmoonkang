@@ -3,9 +3,10 @@
 <a href="https://ssolv.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FF9E2A?style=flat-square&logo=Tistory&logoColor=white&link=https://ssolv.tistory.com/"/></a>
 
 ## 트러블슈팅
-- [테스트에 부딪히고, 최적화를 고민하기까지](https://ssolv.tistory.com/30)
-- [무한 배포 삽질](https://ssolv.tistory.com/51)
-- [로그인 시스템 도전 및 개선](https://ssolv.tistory.com/50)
+- [JMeter와 함께한 병목 추적기](https://ssolv.tistory.com/56)
+- [실시간 채팅 시스템 구조 재설계 이야기](https://ssolv.tistory.com/30)
+- [배포 성공을 위한 삽질의 기록](https://ssolv.tistory.com/51)
+- [로그인 시스템을 위한 JWT 고군분투기](https://ssolv.tistory.com/50)
 
 ## 교육
 - 구름톤 트레이닝 풀스택 개발자 양성 과정, 2024.01 ~ 2024.07
